@@ -11,7 +11,7 @@
 - 
 ## 🗨 Blog
 
-- [jkc-mycode blog]()
+- [jkc-mycode blog](https://jkc-mycode.github.io/)
 
 ## 📃 Baekjoon Online Judge
 
