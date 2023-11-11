@@ -1,8 +1,7 @@
 ## 👋 About Me
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=%20Welcome%20to%20mycode%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
-- 이제 막 프로그래밍 공부를 시작했습니다!!
-- 갈 길이 막막하지만 재밌게 화이팅~~
+- 화이팅~~
 
 ## 💻 Skills
 
