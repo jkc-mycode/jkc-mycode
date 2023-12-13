@@ -13,7 +13,7 @@
 
 ## 📃 Baekjoon Online Judge
 
-- BOJ: 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkc9709)](https://solved.ac/jkc9709/)
 
 ## 📁 Study Note
 
