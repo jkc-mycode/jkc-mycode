@@ -9,7 +9,7 @@
 - 
 ## 🗨 Blog
 
-- [jkc-mycode blog](https://jkc-mycode.github.io/)
+- [[jkc-mycode blog](https://jkc-mycode.github.io/)](https://velog.io/@my_code)
 
 ## 📃 Baekjoon Online Judge
 
