@@ -5,11 +5,12 @@
 
 ## 💻 Skills
 
-- <img src="https://img.shields.io/badge/C-172B4D?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1E88E5?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-4479A1?style=flat&logo=Java&logoColor=white"/>
-- 
+- Programming &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
+- Framework &nbsp; <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> 
+- Database &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 ## 🗨 Blog
 
-- [[jkc-mycode blog](https://jkc-mycode.github.io/)](https://velog.io/@my_code)
+- [My_Code](https://velog.io/@my_code)
 
 ## 📃 Baekjoon Online Judge
 
