@@ -1,7 +1,6 @@
 ## 👋 About Me
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=%20Welcome%20to%20mycode%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
-- 화이팅~~
 
 ## 💻 Skills
 
