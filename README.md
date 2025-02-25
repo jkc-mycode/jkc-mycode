@@ -13,10 +13,14 @@
 
 <br>
 
-## 🗨 Blog
-- [My_Code](https://velog.io/@my_code)
-
-<br>
-
 ## 📃 Baekjoon Online Judge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkc9709)](https://solved.ac/jkc9709/)
+
+## 🏆 GitHub Stats
+![jeongchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkc-mycode&show_icons=true&theme=dracula)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkc-mycode&layout=compact&theme=dracula)
+
+## 🗨 Blog
+- [My_Code](https://velog.io/@my_code)
