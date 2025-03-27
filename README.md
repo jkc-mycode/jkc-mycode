@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkc-mycode&count_bg=%233DC8B9&title_bg=%237B9FD1&icon=octopusdeploy.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ## 👋 About Me 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=%20Welcome%20to%20mycode%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
